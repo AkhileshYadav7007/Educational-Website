@@ -3,6 +3,21 @@ The Educational Website is a comprehensive platform designed to provide educatio
 
 Live Demo https://akhileshyadav7007.github.io/Educational-Website/
 
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/b4355604-5c61-478a-9e51-8895a8d5babb" />
+
+<img width="956" alt="image" src="https://github.com/user-attachments/assets/f9e22cd9-5e9c-4cb1-b87d-bf7b22d7ddd4" />
+
+<img width="957" alt="image" src="https://github.com/user-attachments/assets/aebce127-c4bf-4cde-af38-bfaed485428f" />
+
+<img width="701" alt="image" src="https://github.com/user-attachments/assets/beecec13-ebb1-481a-9507-336b5a4ea03b" />
+
+<img width="528" alt="image" src="https://github.com/user-attachments/assets/294503d2-37e2-40bc-96fb-f9eba2b1a640" />
+
+
+
+
+
+
 # Features
 ### Course Categories: A variety of subjects and topics are available, organized into categories for easy navigation.
 ### Study Materials: Access educational articles, PDFs, and external resources for in-depth learning.
